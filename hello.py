@@ -1,3 +1,5 @@
 # This program prints Hello, world!
 
-print('Hello, new world!')
+print('Hello, My pretty world!')
+
+print('Silly Statement Goes Here.')
